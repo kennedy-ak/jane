@@ -4,5 +4,7 @@ torch
 pillow 
 scikit-learn 
 numpy 
+openai
+pyttsx3
 anthropic
 python-dotenv
